@@ -34,7 +34,7 @@ Crie um arquivo `.env` com base em `.env.example`.
 
 ### 4. Execute o bot
 ```bash
-python bot.py
+python boot.py
 ```
 
 ## 🚀 Deploy rápido
